@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ahmad 
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning web design
+- 👀 I’m interested in development
+- 🌱 I’m currently studying computer science(second year)
 
 - 📫 How to reach me :+961 70591133
 
