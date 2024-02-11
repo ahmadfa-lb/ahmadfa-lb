@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ahmad 
-- 👀 I’m interested in development
-- 🌱 I’m currently studying computer science(second year)
+- 👀 I’m interested in Web development
+- 🌱 Recently graduated with a BS degree in Computer science.
 
 - 📫 How to reach me :+961 70591133
 
